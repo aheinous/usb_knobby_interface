@@ -1,4 +1,4 @@
-update=Tue 10 Nov 2015 11:13:33 PM PST
+update=Mon 30 Nov 2015 12:31:53 AM PST
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=/home/alex/Documents/kicad/libraries/alex
+LibName31=/home/alex/repos/kicad_libraries/alex

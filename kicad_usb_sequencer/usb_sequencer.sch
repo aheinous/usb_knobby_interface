@@ -490,8 +490,6 @@ F 3 "" V 1700 2650 60  0000 C CNN
 	1    1700 2650
 	0    -1   -1   0   
 $EndComp
-Text Notes 1400 4100 0    60   ~ 0
-!!! Package has wrong footprint !!!\n
 Text Notes 900  7450 0    60   ~ 0
 Headers should have 0.97 mm of empty space between pins.\nPCB MUST BE 0.8mm
 $EndSCHEMATC
