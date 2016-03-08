@@ -1,4 +1,4 @@
-update=Thu 12 Nov 2015 01:13:35 AM PST
+update=Mon 07 Mar 2016 04:51:48 PM PST
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,14 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=/home/alex/Documents/kicad/libraries/alex
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
+ERC_TestSimilarLabels=1
